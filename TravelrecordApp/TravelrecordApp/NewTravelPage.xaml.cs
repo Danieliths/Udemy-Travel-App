@@ -28,6 +28,7 @@ namespace TravelrecordApp
             var locator = CrossGeolocator.Current;
             var position = await locator.GetPositionAsync();
             var venues = await VenueLogic.GetVenues(position.Latitude, position.Longitude);
+            venueListView.ItemsSource = venues;
         }
 
         private void ToolbarItem_Clicked(object sender, EventArgs e)
