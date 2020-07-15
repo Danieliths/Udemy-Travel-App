@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "TravelrecordApp.Android.dll" comes first in this list. */
 		"TravelrecordApp.Android.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"Plugin.Geolocator.dll",
 		"Plugin.Permissions.dll",
 		"SQLite-net.dll",
@@ -11,6 +12,8 @@ public class MonoPackageManager_Resources {
 		"SQLitePCLRaw.core.dll",
 		"SQLitePCLRaw.lib.e_sqlite3.android.dll",
 		"SQLitePCLRaw.provider.e_sqlite3.dll",
+		"System.Net.Http.Extensions.dll",
+		"System.Net.Http.Primitives.dll",
 		"TravelrecordApp.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",

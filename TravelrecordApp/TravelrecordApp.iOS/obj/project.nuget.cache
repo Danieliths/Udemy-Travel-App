@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6x40sCpQpwxW11NQVvoWvF9CH00y+yKI+8pVgK4MMQfXXiKGYSz8iSLhz6Gh+LqShvknlu9ZtQDEkC09wszWaw==",
+  "dgSpecHash": "iFsSINLNlKa39TO+u4fxfRizJP4fzxOQPrhMO/0ULIWpDTDbgaqCckEHRCxn7S/gxpQ/bWR7erY5oWcb7xjUNw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Daniel Andersson\\source\\repos\\TravelrecordApp\\TravelrecordApp\\TravelrecordApp.iOS\\TravelrecordApp.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Daniel Andersson\\.nuget\\packages\\microsoft.bcl\\1.1.10\\microsoft.bcl.1.1.10.nupkg.sha512",
+    "C:\\Users\\Daniel Andersson\\.nuget\\packages\\microsoft.bcl.build\\1.0.14\\microsoft.bcl.build.1.0.14.nupkg.sha512",
+    "C:\\Users\\Daniel Andersson\\.nuget\\packages\\microsoft.net.http\\2.2.29\\microsoft.net.http.2.2.29.nupkg.sha512",
+    "C:\\Users\\Daniel Andersson\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Daniel Andersson\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
     "C:\\Users\\Daniel Andersson\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\Daniel Andersson\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",

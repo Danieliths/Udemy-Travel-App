@@ -564,3 +564,8 @@ C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\Travelrec
 C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\TravelrecordApp.Android\obj\Debug\90\android\assets\Plugin.Geolocator.dll
 C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\TravelrecordApp.Android\obj\Debug\90\android\src\crc649efb5bdbf2d8cfa5\GeolocationContinuousListener.java
 C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\TravelrecordApp.Android\obj\Debug\90\android\src\crc649efb5bdbf2d8cfa5\GeolocationSingleListener.java
+C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\TravelrecordApp.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\TravelrecordApp.Android\obj\Debug\90\android\assets\System.Net.Http.Extensions.dll
+C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\TravelrecordApp.Android\obj\Debug\90\android\assets\System.Net.Http.Primitives.dll
+C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\TravelrecordApp.Android\obj\Debug\90\android\assets\System.Net.Primitives.dll
+C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\TravelrecordApp.Android\obj\Debug\90\android\assets\System.Runtime.InteropServices.dll
