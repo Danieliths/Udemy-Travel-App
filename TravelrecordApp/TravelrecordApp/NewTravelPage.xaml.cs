@@ -46,8 +46,8 @@ namespace TravelrecordApp
                     CategoryName = firstCategory.name,
                     Address = selectedVenue.location.address,
                     Distance = selectedVenue.location.distance,
-                    Latitude = selectedVenue.location.latitude,
-                    Longitude = selectedVenue.location.latitude,
+                    Latitude = selectedVenue.location.lat,
+                    Longitude = selectedVenue.location.lng,
                     VenueName = selectedVenue.name
                 };
                 using (SQLiteConnection conn = new SQLiteConnection(App.DatabaseLocation))
@@ -62,11 +62,11 @@ namespace TravelrecordApp
                 }
 
             }
-            catch(NullReferenceException nre)
+            catch(NullReferenceException)
             {
 
             }
-            catch (Exception ex)
+            catch (Exception)
             {
 
             }

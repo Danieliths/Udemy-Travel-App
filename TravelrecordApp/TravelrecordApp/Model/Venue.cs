@@ -11,8 +11,8 @@ namespace TravelrecordApp.Model
     {
         public string address { get; set; }
         public string crossStreet { get; set; }
-        public double latitude { get; set; }
-        public double longitude { get; set; }
+        public double lat { get; set; }
+        public double lng { get; set; }
         public int distance { get; set; }
         public string postalCode { get; set; }
         public string cc { get; set; }
