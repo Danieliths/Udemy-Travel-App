@@ -8,6 +8,11 @@
 
     <StackLayout VerticalOptions="Center" 
                  Margin="20">
+        <Image x:Name="iconImage"
+               Aspect="AspectFit"
+               HorizontalOptions="FillAndExpand"
+               HeightRequest="150"
+               Margin="0,0,0,50"/>
         <Entry Placeholder="Email address"
                Keyboard="Email"
                x:Name="emailEntry"/>
