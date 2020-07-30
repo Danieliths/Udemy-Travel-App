@@ -47,3 +47,5 @@ Xamarin.GooglePlayServices.Base
 Xamarin.GooglePlayServices.Basement
 Xamarin.GooglePlayServices.Maps
 Xamarin.GooglePlayServices.Tasks
+Microsoft.Azure.Mobile.Client
+PCLCrypto

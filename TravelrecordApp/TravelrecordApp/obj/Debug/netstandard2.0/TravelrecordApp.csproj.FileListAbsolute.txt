@@ -16,5 +16,3 @@ C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\Travelrec
 C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\TravelrecordApp\obj\Debug\netstandard2.0\TravelrecordApp.csprojAssemblyReference.cache
 C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\TravelrecordApp\obj\Debug\netstandard2.0\NewTravelPage.xaml.g.cs
 C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\TravelrecordApp\obj\Debug\netstandard2.0\PostDetailPage.xaml.g.cs
-C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\TravelrecordApp\obj\Debug\netstandard2.0\TravelrecordApp.csproj.CoreCompileInputs.cache
-C:\Users\Daniel Andersson\source\repos\TravelrecordApp\TravelrecordApp\TravelrecordApp\obj\Debug\netstandard2.0\XamlC.stamp
